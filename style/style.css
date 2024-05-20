@@ -1,0 +1,13 @@
+div {
+  width: 90%;
+  height: 150px;
+  border: 2px solid #333;
+  margin: 10px auto;
+}
+
+#ex1 {
+  background: linear-gradient(yellow, red 10%, purple 20%);
+}
+#ex2 {
+  background: repeating-linear-gradient(yellow, red 10%, purple 20%);
+}
